@@ -136,7 +136,6 @@ async def chenar(message: Message):
     await message.answer(
         text=f"""
 شما {earned_toman} دماغ پوینت دریافت کردید و موجودی جدی شما {toman} انقدره و شما {earned_xp} اکس پی دماغی دریافت کردید
-added {earned_toman} toman to your walet now you have {toman} and you earned {earned_xp} xp 
         """
     )
 
